@@ -1,0 +1,57 @@
+h1 {
+  background-color: orange;
+  padding: 2px;
+  font: size 20px;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+/* DatakartTraceStyles.css */
+.top-right-image {
+position: absolute;
+top: 0;
+right: 0;
+margin: 8px; /* Adjust the margin to position the image precisely */
+}
+
+
+/* Section headers */
+.manufacture-cell,
+.retailer-cell,
+.distributor-cell,
+.consumer-cell {
+  background-color: rgb(240, 158, 33);
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
+
+/* Section content styles */
+.manufacture-cells {
+  background-color: gray;
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
+
+.retailer-cells {
+  background-color:gray;
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
+
+.distributor-cells {
+  background-color:gray;
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
+
+.consumer-cells {
+  background-color: green;
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
+
